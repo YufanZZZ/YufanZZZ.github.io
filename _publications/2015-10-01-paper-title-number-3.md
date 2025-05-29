@@ -2,12 +2,12 @@
 title: "A Pre-Trained Trajectory Generative Model on Road Network"
 collection: publications
 category: Conference 1
-permalink: # /publication/2015-10-01-paper-title-number-3
-excerpt: #  'This paper is about the number 3. The number 4 is left for future work.'
-date: # 2015-10-01
+permalink:  /publication/2015-10-01-paper-title-number-3
+excerpt:   'This paper is about the number 3. The number 4 is left for future work.'
+date:  2015-10-01
 venue: 'Conference 1'
-slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
-paperurl: #'http://academicpages.github.io/files/paper3.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Weiji Xie, <strong>Yufan Zhang</strong>, Rui Zhang, Zhouyue Sun, Tianyu Liu, Guanjie Zheng, Weinan Zhang, Zhenhui Li ECAI(Under Review)'
 ---
 
