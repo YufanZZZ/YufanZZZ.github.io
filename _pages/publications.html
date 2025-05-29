@@ -1,36 +1,21 @@
+
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### Peer-Reviewed Publications
 
-{% include base_path %}
+1. Weiji Xie, **Yufan Zhang**, Rui Zhang, Zhouyue Sun, Tianyu Liu, Guanjie Zheng, Weinan Zhang, Zhenhui Li.  
+**A Pre-Trained Trajectory Generative Model on Road Network**. *ECAI 2025 (Under Review)*.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+2. Xingang Guo, Yaxin Li, XiangYi Kong, Yilan Jiang, Xiayu Zhao, Zhihua Gong, **Yufan Zhang**, *et al.*  
+**Toward Engineering AGI: Benchmarking the Engineering Design Capabilities of LLMs**. *NeurIPS 2025 D&B Track (Under Review)*.  
+(*Bin Hu*, Corresponding Author)
+
+---
 
 
 
