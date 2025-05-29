@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yufan(Flynn) Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher"
+  bio              : "Incoming Phd student in Purdue University"
   location         : "West Lafayette, Indiana, USA"
   employer         : "Purdue University"
   uri              : # URL
@@ -79,7 +79,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: # 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
